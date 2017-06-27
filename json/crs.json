@@ -1,0 +1,80 @@
+[
+	{
+	"Id" : 1,
+	"Color": "#FF4A4A",
+	"Scale": "scale(0.12500000000000006,-0.12500000000000006)",
+	"Translate": "translate(50898,-250)"
+	},
+	{
+	"Id" : 2,
+	"Color" : "#00C600",
+	"Scale": "scale(0.07700000000000003,-0.07700000000000003)",
+	"Translate": "translate(52218,-391)"
+	},
+	{
+	"Id" : 3,
+	"Color" : "#8000FF",
+	"Scale": "scale(0.09500000000000004,-0.09500000000000004)",
+	"Translate": "translate(50898,-491)"
+	},
+	{
+	"Id" : 4,
+	"Color" : "#FFFF00",
+	"Scale": "scale(0.08300000000000003,-0.08300000000000003)",
+	"Translate": "translate(50378,-291)"
+	},
+	{
+	"Id" : 5,
+	"Color" : "#FF00FF",
+	"Scale": "scale(0.051000000000000004,-0.051000000000000004)",
+	"Translate": "translate(61858,-491)"
+	},
+	{
+	"Id" : 6,
+	"Color" : "#4C6600",
+	"Scale": "scale(0.05900000000000001,-0.05900000000000001)",
+	"Translate": "translate(54138,-291)"
+	},
+	{
+	"Id" : 7,
+	"Color" : "#8C4600",
+	"Scale": "scale(0.06100000000000001,-0.06100000000000001)",
+	"Translate": "translate(54858,-2391)"
+	},
+	{
+	"Id" : 8,
+	"Color" : "#D23500",
+	"Scale": "scale(0.049,-0.049)",
+	"Translate": "translate(56738,-1191)"
+	},
+	{
+	"Id" : 9,
+	"Color" : "#006DD9",
+	"Scale": "scale(0.045,-0.045)",
+	"Translate": "translate(62298,-2591)"
+	},
+	{
+	"Id" : 10,
+	"Color" : "#00F200",
+	"Scale": "scale(0.05500000000000001,-0.05500000000000001)",
+	"Translate": "translate(58498,-25)"
+	},
+	{
+	"Id" : 11,
+	"Color" : "#006666",
+	"Scale": "scale(0.06100000000000001,-0.06100000000000001)",
+	"Translate": "translate(54858,-50)"
+	},
+	{
+	"Id" : 12,
+	"Color" : "#CC99FF",
+	"Scale": "scale(0.049,-0.049)",
+	"Translate": "translate(58538,1500)"
+	},
+	{
+	"Id" : 13,
+	"Color" : "#CCCCFF",
+	"Scale": "scale(0.07300000000000002,-0.07300000000000002)",
+	"Translate": "translate(53978,-191)"
+	}
+]

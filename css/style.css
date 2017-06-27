@@ -1,0 +1,48 @@
+html, body {margin:0;padding:0;height:100%;}
+body{background:url(../images/bg_body.png);width:100%;height:100%;}
+a{text-decoration:none;}
+ul{list-style:none;margin:0;padding:0;}
+ul li{margin:0;padding:0;}
+#geral{width:1024px;height:768px;margin:0 auto;	min-height:100%;position:relative;background:#FFF;}
+#logos{width:1014px;height:100px;background-color:#EEEEEE;padding:5px 5px 0 5px;}
+#logos .eco{float:left;width:136px;height:73px;}
+#logos .siah{float:right;width:222px;height:73px;}
+#logos .gov_para{float:left;position:relative;left:340px;width:77px;height:88px;}
+#left_container{width:250px;height:663px;overflow:scroll;float:left;}
+#info_cidades{font-family: Arial, sans-serif;font-size:12px;color:#069;margin:10px;padding:10px;}
+#center{width:605px;height:650px;float:left;padding:5px;}
+#right_container{font-size:10px;width:140px;height:663px;float:right;overflow:scroll;border-left:2px solid #EEEEEE;padding-left:10px;}
+<!--MAPA-->
+div#mapa {margin: 0 0 25px 0;text-align: center;}
+g path {fill: #FFF;	stroke: #000;stroke-width: 10px;stroke-opacity: 1;}
+g path:hover {cursor: pointer;fill: #CCC;}
+<!-- MARCADOR DAS CRS -->
+.titulo{margin:0;font-family: Arial, sans-serif;color:#069;border-bottom:1px solid #069;width:100px;}
+#right_container .marcador{border:0;padding:0;margin:2px 1px;width:8px;height:8px;float:left;}
+#right_container ul ul{font-family: Arial, sans-serif;color:#069;display: none;}
+#right_container ul li{font-family: Arial, sans-serif;color:#069;margin:2px;background:#099; padding:5px;}
+#right_container ul li a{color:#FFF;}
+#right_container ul li ul li{margin:1px;padding:2px;background:#099;}
+#right_container ul li ul li a{color:#FFF;font-family: Arial, sans-serif;}
+#right_container ul li ul li:hover{background:#09C;}
+<!-- NÍVEIS DE ZOOM  -->
+#control_map a{width:46px;height:46px;float:left;}
+#control_map .zoom_mais{width:23px;height:23px;float:left;background:url(../images/zoom_mais.png) no-repeat;}
+#control_map .zoom_menos{width:23px;height:23px;float:left;background:url(../images/zoom_menos.png) no-repeat;}
+#control_map .zoom_mais:hover, .zoom_menos:hover{opacity:0.6;}
+#control_map .nav_left{width:23px;height:23px;float:left;background:url(../images/arrow_left.gif) no-repeat;}
+#control_map .nav_right{width:23px;height:23px;float:left;background:url(../images/arrow_right.gif) no-repeat;}
+#control_map .nav_top{width:23px;height:23px;float:left;background:url(../images/arrow_up.gif) no-repeat;}
+#control_map .nav_bot{width:23px;height:23px;float:left;background:url(../images/arrow_down.gif) no-repeat;}
+table {width:390px;font-family: Arial, sans-serif;border-collapse: collapse;border: 1px solid #666666;font: normal 11px;color: #069; background: #f6f6f6;text-align:left;}
+caption {text-align: center;font: bold 16px;background: transparent;padding:6px 4px 8px 0px;color: #069;text-transform: uppercase;font-weight:bold;}
+thead, tfoot {background:url(../images/bg1.png) repeat-x;text-align:left;height:30px;}
+thead th, tfoot th {padding:5px;}
+table a {color: #069;text-decoration:none;}
+table a:hover {text-decoration:underline;}
+tr.odd {background: #f1f1f1;}
+tbody th, tbody td {padding:5px;}
+.clearboth{clear:both;}
+#footer {position:fixed;left:0;bottom:0;width:100%;z-index:1;}
+
+<!-- CLASSES -->
